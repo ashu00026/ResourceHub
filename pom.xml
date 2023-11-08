@@ -10,11 +10,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	
-	<groupId>com.luv2code.springboot</groupId>
+	<groupId>com.CodeWeb.springboot</groupId>
 	<artifactId>Resource_Manager</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Resource_Manager</name>
-	<description>Demo project for Spring Boot</description>
+	<description>ResourceManager</description>
 	
 	<properties>
 		<java.version>17</java.version>
